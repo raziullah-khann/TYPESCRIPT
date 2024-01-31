@@ -1,4 +1,4 @@
-# Installation Of Tools or Envoronment
+# Installation Of Tools or Environment
 1.install NodeJs
 2.install Vs Code
 
